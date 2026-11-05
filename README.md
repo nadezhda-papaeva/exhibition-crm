@@ -197,7 +197,7 @@
 
 В репозитории собраны основные артефакты, подготовленные в рамках проекта:
 
-- - [Требования к MVP](https://github.com/nadezhda-papaeva/exhibition-crm/tree/main/requirements) — функциональные и нефункциональные требования, критерии приёмки и ограничения MVP;
+- [Требования к MVP](https://github.com/nadezhda-papaeva/exhibition-crm/tree/main/requirements) — функциональные и нефункциональные требования, критерии приёмки и ограничения MVP;
 - [Диаграммы](diagrams/) — BPMN AS-IS / TO-BE, Use Case Diagram и UML Class Diagram;
 - [Прототипы](prototypes/) — прототипы основных экранов мобильного приложения;
 - [Анализ вариантов решения](solution-analysis/) — критерии сравнения и результаты анализа возможных вариантов реализации.
