@@ -14,7 +14,7 @@
 
 ## 2. Диаграмма вариантов использования (Use Case Diagram)
 
-[Открыть Use Case Diagram (Word)](Use%20Case%20Exhibition.docx)
+[Открыть Use Case Diagram (PDF)](Use%20Case%20Exhibition.pdf)
 
 Диаграмма отражает основные пользовательские сценарии предлагаемого мобильного приложения.
 
