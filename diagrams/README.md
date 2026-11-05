@@ -4,7 +4,7 @@
 
 ## 1. BPMN AS и TO BE.
 
-[[Открыть диаграммы BPMN (PDF)](BPMN%20AS%20%D0%B8%20TO%20BE.pdf)](https://github.com/nadezhda-papaeva/exhibition-crm/blob/main/diagrams/BPMN%20AS%20%D0%B8%20TO%20BE.drawio.pdf)
+[Открыть диаграммы BPMN (PDF)](BPMN%20AS%20%D0%B8%20TO%20BE.pdf)](https://github.com/nadezhda-papaeva/exhibition-crm/blob/main/diagrams/BPMN%20AS%20%D0%B8%20TO%20BE.drawio.pdf)
 
 Документ содержит две диаграммы:
 
